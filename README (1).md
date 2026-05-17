@@ -194,7 +194,7 @@ jupyter notebook Customer_Shopping_Behavior_Analysis.ipynb
 ## 👤 Author
 
 **Ayush Jha**
-- 📧 your-email@gmail.com
+- 📧 Ayushjhajnt@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
 - 🐙 [GitHub](https://github.com/yourusername)
 
